@@ -24,7 +24,3 @@
 <p><a target="_blank" href="https://twitter.com/CRISS3242" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/Christian Alarcón Valencia" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/chriss0530" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chriss005&show_icons=true&locale=en" alt="Chriss005" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chriss005&" alt="Chriss005" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chriss005&show_icons=true&locale=en&layout=compact" alt="Chriss005" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chriss005" alt="Chriss005" /></a></p>
