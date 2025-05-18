@@ -1,16 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/patricio-m-690b3729/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@thefreerangetester">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://twitter.com/RangeTester">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
   <img src="https://komarev.com/ghpvc/?username=thefreerangetester&color=blue" alt=""/>
   <h1>
   hey there
@@ -20,14 +9,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
 ---
-### :man_technologist: About Me :
-I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
-- :telescope: I’m working as a Senior Test Engineer Contractor and contributing to projects both in Wellington and remotely around all New Zealand and Australia.
-
-- :seedling: Mentoring the new generations of Test Engineers in New Zealand through <a href="https://devacademy.co.nz/testing-automation-essentials/">DevAcademy Aotearoa</a>
-
 # 💫 About Me:
 ¡Hola! Soy Christian, tengo 20 años y soy de Ecuador 🇪🇨. Actualmente estudio Ingeniería en Software y estoy aprendiendo paso a paso para convertirme en desarrollador de software. Me interesa tanto el desarrollo backend como frontend, y disfruto programar, diseñar y construir proyectos desde cero.<br><br>Estoy en constante aprendizaje, explorando tecnologías como Java, C#, Python, Frameworks, Base de datos y desarrollo web (HTML, CSS, JavaScript). Me apasiona entender cómo funcionan las cosas por dentro, organizar bien mis proyectos y mantener un portafolio que refleje mi crecimiento.<br><br>Este espacio es mi bitácora digital, donde documento lo que voy aprendiendo, practico nuevas ideas y guardo mis avances como estudiante y futuro desarrollador.
 
